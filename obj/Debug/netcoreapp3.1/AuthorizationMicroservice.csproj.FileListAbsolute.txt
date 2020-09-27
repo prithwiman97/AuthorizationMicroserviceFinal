@@ -194,3 +194,4 @@ C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice\obj\Debug\netcorea
 C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
 C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
 C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.yaml
