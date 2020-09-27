@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MFPE\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj": {}
+    "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj": {}
   },
   "projects": {
-    "E:\\MFPE\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj": {
+    "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MFPE\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
         "projectName": "AuthorizationMicroservice",
-        "projectPath": "E:\\MFPE\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
+        "projectPath": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
         "packagesPath": "C:\\Users\\Prithwi.PRITHWIMAN\\.nuget\\packages\\",
-        "outputPath": "E:\\MFPE\\AuthorizationMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\AuthorizationMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prithwi.PRITHWIMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

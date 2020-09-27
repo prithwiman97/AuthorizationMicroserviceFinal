@@ -238,3 +238,26 @@ INFO  04:48:00 Constructor Initialized
 INFO  04:48:02 List successfully fetched from Microservice
 INFO  04:48:02 Successfully logged in Prithwiman
 INFO  04:48:02 Token received
+INFO  05:36:03 Application started. Press Ctrl+C to shut down.
+INFO  05:36:03 Hosting environment: Development
+INFO  05:36:03 Content root path: C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice
+INFO  05:36:36 Constructor Initialized
+ERROR 05:36:37 Invalid credentials Response Code:NotFound
+INFO  05:36:37 Invalid Credentials
+ERROR 05:36:37 Unauthorized access
+INFO  05:37:25 Application started. Press Ctrl+C to shut down.
+INFO  05:37:25 Hosting environment: Development
+INFO  05:37:25 Content root path: C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice
+INFO  05:38:00 Constructor Initialized
+ERROR 05:38:22 (MedicalRepresentativeRepository) RepSchedule Microservice not responding One or more errors occurred. (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ERROR 05:38:22 Exception arised in MedicalRepresentativeProvider
+One or more errors occurred. (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ERROR 05:38:22 Internal server error in AuthController
+One or more errors occurred. (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+INFO  05:38:52 Application started. Press Ctrl+C to shut down.
+INFO  05:38:52 Hosting environment: Development
+INFO  05:38:52 Content root path: C:\Users\Prithwi.PRITHWIMAN\Desktop\AuthorizationMicroservice
+INFO  05:39:22 Constructor Initialized
+INFO  05:39:23 List successfully fetched from Microservice
+INFO  05:39:23 Successfully logged in Prithwiman
+INFO  05:39:23 Token received
